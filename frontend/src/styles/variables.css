@@ -1,0 +1,15 @@
+:root {
+  --spacing: 8px;
+  --radius: 6px;
+}:root {
+    --primary-color: #3498db;
+    --secondary-color: #2ecc71;
+    --accent-color: #e74c3c;
+    --background-color: #f4f4f4;
+    --text-color: #333;
+    --font-family: 'Arial', sans-serif;
+    --font-size: 16px;
+    --header-height: 60px;
+    --footer-height: 40px;
+    --navbar-height: 50px;
+}
