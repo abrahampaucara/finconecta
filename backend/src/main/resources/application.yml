@@ -1,0 +1,18 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/assessmentdb
+    username: postgres
+    password: yourpassword
+    driver-class-name: org.postgresql.Driver
+
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/assessmentdb
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+server:
+  port: 8080
