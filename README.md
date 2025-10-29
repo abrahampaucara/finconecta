@@ -13,3 +13,4 @@ terraform plan
 
 4.- Aplica la infraestructura:
 terraform apply
+# finconecta
